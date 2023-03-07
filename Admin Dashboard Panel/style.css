@@ -94,7 +94,10 @@ nav .logo-image img{
 }
 
 nav .logo-name .logo_name{
+    text-align: center;
+    line-height: 1;
     font-size: 22px;
+    text-transform: uppercase;
     font-weight: 600;
     color: var(--text-color);
     margin-left: 14px;
